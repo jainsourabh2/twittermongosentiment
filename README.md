@@ -10,4 +10,5 @@ Follow below steps to use the utility
   export access_token_secret = value;
 
 2 Run node twitter.js on command propmt for foreground process.
+
 3 For bacground process , run nohup node twitter.js &.
